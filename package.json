@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "compile": "next build",
-    "start": "next start"
+    "start": "next start",
+    "build": "next build"
   },
   "engines": {
     "node": ">=18.18.0"
